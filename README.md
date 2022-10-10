@@ -1,5 +1,5 @@
 # Recommendation-System
-It is a Recommender System and Data Preprocessing with (Collaborative Filtering &amp; Content-Based Filtering) From Scratch 
+This Notebook Contains Recommender System and Data Preprocessing with (Collaborative Filtering &amp; Content-Based Filtering) Recommendation methods From Scratch 
 
 This Notebook with python programming language
 
